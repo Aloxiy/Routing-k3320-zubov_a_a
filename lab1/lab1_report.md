@@ -1,13 +1,3 @@
-University: [ITMO University](https://itmo.ru/ru/)<br />
-Faculty: [FICT](https://fict.itmo.ru)<br />
-Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)<br />
-Year: 2025/2026<br />
-Group: K3323<br />
-Author: Krestyanova Elisaveta Fedorovna<br />
-Lab: Lab1<br />
-Date of create: 14.09.2025<br />
-Date of finished: 22.09.2025<br />
-
 # Задание
 
 Вам необходимо сделать трехуровневую сеть связи классического предприятия изображенную на рисунке 1 в ContainerLab. Необходимо создать все устройства указанные на схеме и соединения между ними, правила работы с СontainerLab можно изучить по ссылке.

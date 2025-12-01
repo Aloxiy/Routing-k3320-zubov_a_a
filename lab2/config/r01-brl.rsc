@@ -12,7 +12,7 @@ add address=10.3.0.0/16 gateway=10.3.0.1
 add distance=1 dst-address=10.1.0.0/16 gateway=192.168.13.2
 add distance=1 dst-address=10.2.0.0/16 gateway=192.168.12.1
 /user
-add name=plida password=letmein group=full
+add name=aloxiy password=1234 group=full
 remove admin
 /system identity
 set name=R01.BRL

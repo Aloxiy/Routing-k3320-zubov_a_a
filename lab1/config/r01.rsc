@@ -14,7 +14,7 @@ add address-pool=dhcp-pool20 disabled=no interface=vlan20 name=dhcp-server20
 add address=10.10.0.0/24 gateway=10.10.0.1
 add address=10.20.0.0/24 gateway=10.20.0.1
 /user
-add name=plida password=letmein group=full
+add name=aloxiy password=1234 group=full
 remove admin
 /system identity
 set name=R01

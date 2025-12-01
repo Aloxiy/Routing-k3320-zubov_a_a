@@ -44,7 +44,7 @@ Lab: Lab2<br />
 3. /ip dhcp-server
 4. /ip dhcp-server network
 5. /ip route (сети 10.x.0.0 за другими 2 роутерами)
-6. /user (добавляем plida, убираем admin)
+6. /user (добавляем aloxiy, убираем admin)
 7. /system identity
 
 ## Компьютеры

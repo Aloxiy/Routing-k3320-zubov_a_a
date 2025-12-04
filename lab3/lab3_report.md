@@ -26,7 +26,7 @@
 <img src="images/graph-1.png" width=500px>
 
 Схема, отображённая в ContainerLab:  
-<img src="images/graph-2.png" width=500px>
+<img src="images/graph-3.png" width=500px>
 
 ---
 

@@ -1,5 +1,5 @@
 /user
-add name=plida password=letmein group=full
+add name=aloxiy password=1234 group=full
 remove admin
 /system identity
 set name=R01.LND

@@ -1,7 +1,3 @@
-# Routing-k3320-zubov_a_a
-Group: K3320<br />
-Author: Zubov Alexey Andreevich<br />
-
 Лабораторные работы:
 1. [Установка ContainerLab и развертывание тестовой сети связи](/lab1/lab1_report.md)
 2. [Эмуляция распределенной корпоративной сети связи, настройка статической маршрутизации между филиалами](/lab2/lab2_report.md)

@@ -180,5 +180,3 @@ AS представляет собой совокупность сетей, уп
 5. Разница между Route Distinguisher и Route Target: [https://habr.com/ru/sandbox/99255/](https://habr.com/ru/sandbox/99255/)
 6. Layer-3 MPLS VPN example (пример vrf настройки): [https://web.archive.org/web/20241114213912/https://wiki.mikrotik.com/File:L3vpn.png](https://web.archive.org/web/20241114213912/https://wiki.mikrotik.com/File:L3vpn.png)
 7. BGP based VPLS: [https://web.archive.org/web/20241114204010/https://wiki.mikrotik.com/Manual:BGP_based_VPLS](https://web.archive.org/web/20241114204010/https://wiki.mikrotik.com/Manual:BGP_based_VPLS)
-
-Если хочешь, могу сделать версию «пожёстче» под антиплагиат или наоборот упростить язык под отчёт для преподавателя.
